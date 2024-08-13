@@ -13,9 +13,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![NumPY](https://img.shields.io/badge/-NumPY-333?style=flat&logo=numpy)
-![MatPlotLib](https://img.shields.io/badge/-matplotlib-333?style=flat&logo=matplotlib)
-![Keras](https://img.shields.io/badge/-keras-333?style=flat&logo=keras)
-![C++](https://img.shields.io/badge/-cplusplus-333?style=flat&logo=cplusplus)
+![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-333?style=flat&logo=matplotlib)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 
 ## 🛠️ Мои проекты
 
