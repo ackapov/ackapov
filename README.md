@@ -12,10 +12,10 @@
 ## 🔧 Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![NumPY](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=numpy)
-![MatPlotLib](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=matplotlib)
-![Keras](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=keras)
-![C++](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=cplusplus)
+![NumPY](https://img.shields.io/badge/-NumPY-333?style=flat&logo=numpy)
+![MatPlotLib](https://img.shields.io/badge/-matplotlib-333?style=flat&logo=matplotlib)
+![Keras](https://img.shields.io/badge/-keras-333?style=flat&logo=keras)
+![C++](https://img.shields.io/badge/-cplusplus-333?style=flat&logo=cplusplus)
 
 ## 🛠️ Мои проекты
 
