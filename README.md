@@ -6,7 +6,7 @@
 
 - 🌍 Живу в РФ.
 - 🔭 В настоящее время работаю над проектом ArtGuard AI, который отличает изображения сгенерированные ИИ от обычных.
-- 🌱 Изучаю C++.
+- 🌱 Изучаю C.
 - 📫 Свяжитесь со мной через [Email](mailto:askarovw@yandex.ru).
 
 ## 🔧 Технологии и инструменты
@@ -15,7 +15,7 @@
 ![NumPY](https://img.shields.io/badge/-NumPY-333?style=flat&logo=numpy)
 ![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-333?style=flat&logo=matplotlib)
 ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
 ## 🛠️ Мои проекты
 
